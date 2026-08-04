@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/stateless-engineering/art/main/logo.svg" alt="Stateless Engineering" width="320">
+  <img src="[https://raw.githubusercontent.com/stateless-engineering/art/main/logo.svg](https://raw.githubusercontent.com/stateless-engineering/.github/refs/heads/main/logo.svg)" alt="Stateless Engineering" width="320">
   <p><em>A discipline for building systems where state is truth and engines are pure function.<br>Hibernate anything. Restore progressively. Waste nothing.</em></p>
 </div>
 
